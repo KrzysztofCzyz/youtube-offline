@@ -1,6 +1,6 @@
 # youtube-offline
 
-Project dedicated to bring YouTube videos to your offline storage
+Bring YouTube videos to your offline storage
 
 Currently my project goals are as follows:
 
