@@ -1,7 +1,8 @@
 # youtube-offline
 
-Bring YouTube videos to your offline storage
+Project is dead. Move along ;)
 
+Bring YouTube videos to your offline storage
 Currently my project goals are as follows:
 
 ## A) Frontend
